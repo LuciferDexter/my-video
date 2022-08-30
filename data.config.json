@@ -1,0 +1,64 @@
+{
+    "urls": [
+        {
+            "name": "无尽",
+            "url": "https://api.wujinapi.com/api.php/provide/vod/",
+            "home": "https://www.wujinzy.com/"
+        },
+        {
+            "name": "想看",
+            "url": "https://m3u8.xiangkanapi.com/provide/vod/",
+            "home": "http://xiangkanzy.com/"
+        },
+        {
+            "name": "飞速",
+            "url": "https://m3u8.feisuzyapi.com/vod/",
+            "home": "http://help.feisuzyapi.com/"
+        },
+        {
+            "name": "天空",
+            "url": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "home": "https://help.tiankongapi.com/"
+        },
+        {
+            "name": "U酷",
+            "url": "https://api.ukuapi.com/api.php/provide/vod/",
+            "home": "http://gg4.ukuzy0.com/"
+        },
+        {
+            "name": "秀色",
+            "url": "https://api.xiuseapi.com/api.php/provide/vod/",
+            "home": "http://gg3.xiusezy9.com/"
+        },
+        {
+            "name": "老鸭",
+            "url": "https://api.apilyzy.com/api.php/provide/vod/",
+            "home": "http://laoyazy7.cc/"
+        },
+        {
+            "name": "桃色",
+            "url": "https://api.taoseapi.com/api.php/provide/vod/",
+            "home": "http://gg3.taosezy10.com/"
+        },
+        {
+            "name": "爱播",
+            "url": "https://api.aibozyapi.com/vod/",
+            "home": "http://www.aibozy10.com/"
+        },
+        {
+            "name": "探探",
+            "url": "https://apittzy.com/api.php/provide/vod/",
+            "home": "https://www.tantanzy7.com/"
+        },
+        {
+            "name": "乐播",
+            "url": "https://lbapi9.com/api.php/provide/vod/at/json/",
+            "home": "https://lebohelp.com/"
+        },
+        {
+            "name": "乐鱼",
+            "url": "https://www.leyuzyapi.com/inc/apijson_vod.php",
+            "home": "https://help.leyuzy.pro/"
+        }
+    ]
+}

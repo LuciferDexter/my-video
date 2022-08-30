@@ -1,0 +1,38 @@
+{
+  "name": "private-web-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^0.2.4",
+    "axios": "^0.19.2",
+    "core-js": "^3.19.3",
+    "dplayer": "^1.26.0",
+    "element-plus": "*",
+    "express": "^4.17.1",
+    "hls.js": "^1.1.1",
+    "jquery": "^3.6.0",
+    "js-md5": "^0.7.3",
+    "sqlite3": "^5.0.2",
+    "tiny-emitter": "^2.1.0",
+    "vue": "^3.0.0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.45.0",
+    "sass-loader": "^8.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
